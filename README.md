@@ -1,5 +1,5 @@
 # JAVASCRIPT_
-Introdução java script para iniciantes
+Introdução javascript para iniciantes
 
 ### Javascript
 
